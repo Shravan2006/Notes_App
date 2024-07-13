@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/toolbarofnotedetail"
         android:paddingTop="35dp"
-        android:background="@android:color/system_accent1_300">
+        android:background="@android:color/darker_gray">
 
         <TextView
             android:layout_width="match_parent"
@@ -22,7 +22,6 @@
             android:textColor="@color/black"
             android:textStyle="bold"
             android:text="Title Displayed Here"
-            android:background="@android:color/system_accent1_300"
             android:id="@+id/titleofnotedetail" />
 
     </androidx.appcompat.widget.Toolbar>
